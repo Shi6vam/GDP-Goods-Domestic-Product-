@@ -1,5 +1,5 @@
 # World Economy Analytics(POWER_BI)
-The following are a few distinct kinds of economic indicators and how they might be utilised to comprehend the condition of the economy. GDP Population Unemployment.
+The following are a few distinct kinds of economic indicators and how they might be utilised to comprehend the condition of the economy.
 
 # power BI 
 Power BI is a powerful business analytics tool developed by Microsoft that allows users to visualize and analyze data from a variety of sources. If you're looking to create World Economy Analytics using Power BI, here's a general guide on how you can approach it:
